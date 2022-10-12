@@ -1,0 +1,29 @@
+let num='Sun';
+if(num == 'Mon')
+{
+  console.log("Monday");
+}
+else if(num == 'Tue')
+{
+console.log("Tuesday")
+  }
+else if(num == "Wed")
+{
+console.log("Wednesday")
+  }
+else if(num == "Thu")
+{
+console.log("Thursday")
+}
+else if(num == "Fri")
+{
+console.log("Friday")
+}
+else if(num == "Sat")
+{
+  console.log("Saturday")
+}
+else if(num == "Sun")
+{
+console.log("Sunday")
+} 
