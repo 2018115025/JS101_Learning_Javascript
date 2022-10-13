@@ -1,0 +1,11 @@
+i=1
+n=100
+sum=0
+while(i<=n)
+  {
+    sum+=i;
+    i++
+  }
+console.log(sum)
+avg=sum/n;
+console.log(avg);
